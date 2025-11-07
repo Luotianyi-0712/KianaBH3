@@ -1,5 +1,5 @@
 # KianaBH3
-
+8.4.0
 <p align="center">
 <strong>KianaBH3</strong> is a server emulator of a certain adventure anime game!
 
